@@ -1,9 +1,3 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        var instance = Singleton.Instance;
+﻿var instance = Singleton.Singleton.Instance;
 
-        instance.ShowMessage();
-    }
-}
+instance.ShowMessage();

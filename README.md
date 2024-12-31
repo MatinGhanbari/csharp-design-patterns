@@ -6,4 +6,5 @@ The repository aims to enhance the software development process by promoting cod
 
 
 ## Table Of Context
-1. [Singleton](/src/Singleton/)
+1. [Singleton Pattern](/src/Singleton/)
+1. [Factory Pattern](/src/Factory/)

@@ -1,4 +1,6 @@
-﻿public class Singleton
+﻿namespace Singleton;
+
+public class Singleton
 {
     private static Singleton _instance;
 
