@@ -3,4 +3,4 @@ The repository aims to enhance the software development process by promoting cod
 
 
 ## Table Of Context
-1. [Singleton](/src/Singleton/README.md)
+1. [Singleton](/src/Singleton/)
