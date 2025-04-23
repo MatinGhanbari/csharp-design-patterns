@@ -12,9 +12,9 @@ The repository aims to enhance the software development process by promoting cod
 
 
 ## The Catalog of Design Patterns
-1. [Creational patterns](#Creational patterns)
-2. [Structural patterns](Structural patterns)
-3. [Behavioral patterns](Behavioral patterns)
+1. [Creational patterns](#creational-patterns)
+2. [Structural patterns](#Structural-patterns)
+3. [Behavioral patterns](#Behavioral-patterns)
 
 ### Creational patterns
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
